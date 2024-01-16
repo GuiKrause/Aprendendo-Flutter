@@ -14,16 +14,16 @@ class _PerguntaAppState extends State<PerguntaApp> {
         {'texto': 'Vermelho', 'pontuacao': 10},
         {'texto': 'Verde', 'pontuacao': 5},
         {'texto': 'Azul', 'pontuacao': 3},
-        {'texto': 'Alpha', 'pontuacao': 1},
+        {'texto': 'Amarelo', 'pontuacao': 1},
       ]
     },
     {
       'texto': 'Qual é o seu animal favorito?',
       'resposta': [
         {'texto': 'Leão', 'pontuacao': 2},
-        {'texto': 'Loba', 'pontuacao': 4},
-        {'texto': 'Cachurro', 'pontuacao': 8},
-        {'texto': 'Perequito', 'pontuacao': 9},
+        {'texto': 'Lobo', 'pontuacao': 4},
+        {'texto': 'Gato', 'pontuacao': 8},
+        {'texto': 'Canário', 'pontuacao': 9},
       ]
     },
     {
@@ -31,8 +31,8 @@ class _PerguntaAppState extends State<PerguntaApp> {
       'resposta': [
         {'texto': 'Mouse', 'pontuacao': 1},
         {'texto': 'Teclado', 'pontuacao': 3},
-        {'texto': 'Sean', 'pontuacao': 7},
-        {'texto': 'Não', 'pontuacao': 10},
+        {'texto': 'Fone', 'pontuacao': 7},
+        {'texto': 'Monitor', 'pontuacao': 10},
       ]
     }
   ];
